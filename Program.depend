@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1611133799 source:g:\学习资料\毕业论文\重构程序\program\function.c
+	<stdio.h>
+	"function.h"
+
+1611133880 g:\学习资料\毕业论文\重构程序\program\function.h
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+
+1611133856 source:g:\学习资料\毕业论文\重构程序\program\main.cpp
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	"function.h"
+
+1611196198 source:g:\学习资料\毕业论文\程序\program\function.c
+	<stdio.h>
+	"function.h"
+
+1614845073 g:\学习资料\毕业论文\程序\program\function.h
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+
+1611195138 source:g:\学习资料\毕业论文\程序\program\main.cpp
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	"function.h"
+
+1614863223 source:g:\学习资料\毕业论文\程序\程序2021.3.4改\function.c
+	<stdio.h>
+	"function.h"
+
+1614867517 g:\学习资料\毕业论文\程序\程序2021.3.4改\function.h
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+
+1614865740 source:g:\学习资料\毕业论文\程序\程序2021.3.4改\main.cpp
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	"function.h"
+
